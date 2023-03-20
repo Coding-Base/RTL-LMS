@@ -88,5 +88,5 @@ const link = document.getElementById("Link");
 link.addEventListener("click",redirect);
 
 function redirect(){
-    window.location.replace("https://selar.co/yxyg");
+    window.location.replace("system.html");
 }
